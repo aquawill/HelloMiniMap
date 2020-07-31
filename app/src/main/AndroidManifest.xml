@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fencynavi.hellominimap">
+    package="com.fencynavi.minimap">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -18,7 +18,7 @@
         <meta-data android:name="com.here.sdk.access_key_id" android:value="uA1EJAtTOXvT6tHYe_TRGQ" />
         <meta-data android:name="com.here.sdk.access_key_secret" android:value="Peh61wdOnalBBKqLa_i8pWm2VMnlpwbKemQ2uqVNVQ2BUMcV0A-fWYzhGfmIk-tqOsxwv9JcyNd1MwrmOTJ7mQ" />
 
-        <activity android:name="com.fencynavi.hellominimap.MainActivity">
+        <activity android:name="com.fencynavi.minimap.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />

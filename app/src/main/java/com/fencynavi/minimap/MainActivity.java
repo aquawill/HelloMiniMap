@@ -1,4 +1,4 @@
-package com.fencynavi.hellominimap;
+package com.fencynavi.minimap;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

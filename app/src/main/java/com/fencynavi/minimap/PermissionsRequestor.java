@@ -17,7 +17,7 @@
  * License-Filename: LICENSE
  */
 
-package com.fencynavi.hellominimap;
+package com.fencynavi.minimap;
 
 import android.Manifest;
 import android.app.Activity;
